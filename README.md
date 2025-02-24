@@ -1,5 +1,7 @@
 # Web Development Assignments
 
+**Homepage:** [KSU Student Web](https://studentweb.kennesaw.edu/~ameyer30/3260/)  
+
 This repository contains assignments for my IS 3260 Web Development course. All assignments are accessible through the linked homepage.
 
 ### Movie Pages (movie1.html and movie2.html)
