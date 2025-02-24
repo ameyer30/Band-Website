@@ -11,5 +11,4 @@ Exercises in applying different CSS rules for layout, colors, and text formattin
 ### Band Website (band.html)
 A small website for a band, showcasing multimedia elements and basic CSS layout techniques.
 
-***
-All files are existing on my student web space, where they are able to be viewed directly.
+
